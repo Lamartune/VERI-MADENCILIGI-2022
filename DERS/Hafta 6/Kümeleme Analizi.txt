@@ -1,0 +1,14 @@
+Kümeleme Analizi
+(İki aşamalı kümeleme analizi)
+
+1.Kümeleme değişkenlerinin seçimi
+2.Kümeleme analizi prosedürü/yönteminin seçimi
+3.Benzerlik ya da farklılık ölçüsünün seçimi
+4.Küme sayısına karar verme
+5.Analiz sonuçlarının doğrulanması ve yorumlanması
+--------------------------------------------------
+Kümeleme Analizi Değişkenleri
+
+-Sosyo Demografik
+-Psikometrik
+-Davranışsal
